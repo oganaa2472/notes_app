@@ -2,3 +2,4 @@ ONE
 I changed joy branch 
 background-color:purple
 I changed goodbye
+I added stash file
