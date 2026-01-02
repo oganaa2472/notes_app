@@ -2,9 +2,10 @@
 
 Simple Android Notes application demonstrating use of Room (local persistence) and Hilt (dependency injection).
 
-![App Screenshot]
-| | |
-|---:|:---|
+## [App Screenshot]
+
+|                                  |                                  |
+| -------------------------------: | :------------------------------- |
 | <img src="note.png" width="160"> | <img src="note.png" width="160"> |
 
 ## Overview
