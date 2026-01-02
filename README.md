@@ -5,7 +5,7 @@ Simple Android Notes application demonstrating use of Room (local persistence) a
 ![App Screenshot]
 | | |
 |---:|:---|
-| <img src="note.png" width="160"> | <img src="note2.png" width="160"> |
+| <img src="note.png" width="160"> | <img src="note.png" width="160"> |
 
 ## Overview
 
